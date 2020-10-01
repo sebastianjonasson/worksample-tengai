@@ -4,7 +4,7 @@
 ⏱ Duration: ~3h  
 💼 Got employed? Yes  
 
-## Assignment description
+## Assignment description - Rest API Endpoints for Assignments
 An assignment is an open job position. It is for a specific role in a department in a company handled by either one or multiple recruiters. For example it could be the role as Backend Developer in the development team at Tengai handled by John Doe.
 
 Your task is to build a small backend solution.
